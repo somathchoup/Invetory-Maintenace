@@ -1,0 +1,66 @@
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 12\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 11\Extra 11-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 17\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 17\Extra 17-1 InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\VB 2015\Extra exercise starts\Chapter 18\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.Cache
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbprojResolveAssemblyReference.cache
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.cache
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.CoreCompileInputs.cache
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Somath\Desktop\Visual Basics 2\Unit 5\Projects\Week 5 Assignment\Week 5 Assignment\InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
